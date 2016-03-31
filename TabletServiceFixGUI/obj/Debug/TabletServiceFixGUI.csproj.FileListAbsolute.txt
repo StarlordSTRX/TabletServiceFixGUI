@@ -1,0 +1,10 @@
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\bin\Debug\TabletServiceFixGUI.exe.config
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\bin\Debug\TabletServiceFixGUI.exe
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\bin\Debug\TabletServiceFixGUI.pdb
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Main.resources
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Properties.Resources.resources
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Settings.resources
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.csproj.GenerateResource.Cache
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.exe
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.pdb
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.csprojResolveAssemblyReference.cache
