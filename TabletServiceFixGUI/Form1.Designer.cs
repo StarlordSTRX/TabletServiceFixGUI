@@ -107,12 +107,12 @@
             // credits
             // 
             this.credits.AutoSize = true;
-            this.credits.Location = new System.Drawing.Point(175, 118);
+            this.credits.Location = new System.Drawing.Point(179, 118);
             this.credits.Name = "credits";
-            this.credits.Size = new System.Drawing.Size(39, 13);
+            this.credits.Size = new System.Drawing.Size(35, 13);
             this.credits.TabIndex = 6;
             this.credits.TabStop = true;
-            this.credits.Text = "Credits";
+            this.credits.Text = "About";
             this.credits.VisitedLinkColor = System.Drawing.Color.Blue;
             this.credits.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.credits_LinkClicked);
             // 
