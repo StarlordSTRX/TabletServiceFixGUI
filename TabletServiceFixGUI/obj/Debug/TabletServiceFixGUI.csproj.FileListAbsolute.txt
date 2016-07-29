@@ -18,3 +18,13 @@ C:\Users\vidar.tedenbrant\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixG
 C:\Users\vidar.tedenbrant\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Properties.Resources.resources
 C:\Users\vidar.tedenbrant\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Settings.resources
 C:\Users\vidar.tedenbrant\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.csproj.GenerateResource.Cache
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\bin\Debug\TabletServiceFixGUI.exe.config
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.exe
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.pdb
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\bin\Debug\TabletServiceFixGUI.exe
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\bin\Debug\TabletServiceFixGUI.pdb
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.csprojResolveAssemblyReference.cache
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Main.resources
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Properties.Resources.resources
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.Settings.resources
+C:\Users\Vidar\Documents\GitHub\TabletServiceFixGUI\TabletServiceFixGUI\obj\Debug\TabletServiceFixGUI.csproj.GenerateResource.Cache

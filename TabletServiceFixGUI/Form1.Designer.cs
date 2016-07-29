@@ -44,7 +44,7 @@
             // 
             this.StatusColon.AutoSize = true;
             this.StatusColon.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.StatusColon.Location = new System.Drawing.Point(8, 13);
+            this.StatusColon.Location = new System.Drawing.Point(11, 16);
             this.StatusColon.Name = "StatusColon";
             this.StatusColon.Size = new System.Drawing.Size(76, 20);
             this.StatusColon.TabIndex = 0;
@@ -55,7 +55,7 @@
             this.status.AutoSize = true;
             this.status.Font = new System.Drawing.Font("Arial Black", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.status.ForeColor = System.Drawing.Color.Gray;
-            this.status.Location = new System.Drawing.Point(79, 6);
+            this.status.Location = new System.Drawing.Point(84, 9);
             this.status.Name = "status";
             this.status.Size = new System.Drawing.Size(66, 30);
             this.status.TabIndex = 1;
@@ -63,9 +63,9 @@
             // 
             // restart
             // 
-            this.restart.Location = new System.Drawing.Point(13, 86);
+            this.restart.Location = new System.Drawing.Point(12, 90);
             this.restart.Name = "restart";
-            this.restart.Size = new System.Drawing.Size(201, 25);
+            this.restart.Size = new System.Drawing.Size(285, 43);
             this.restart.TabIndex = 2;
             this.restart.Text = "Restart Tablet Service";
             this.restart.UseVisualStyleBackColor = true;
@@ -74,7 +74,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(9, 44);
+            this.label1.Location = new System.Drawing.Point(9, 48);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(90, 13);
             this.label1.TabIndex = 3;
@@ -82,9 +82,9 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(12, 60);
+            this.textBox1.Location = new System.Drawing.Point(12, 64);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(202, 20);
+            this.textBox1.Size = new System.Drawing.Size(285, 20);
             this.textBox1.TabIndex = 4;
             // 
             // timerSeconds
@@ -95,7 +95,7 @@
             // lbl_settings
             // 
             this.lbl_settings.AutoSize = true;
-            this.lbl_settings.Location = new System.Drawing.Point(12, 118);
+            this.lbl_settings.Location = new System.Drawing.Point(9, 142);
             this.lbl_settings.Name = "lbl_settings";
             this.lbl_settings.Size = new System.Drawing.Size(45, 13);
             this.lbl_settings.TabIndex = 5;
@@ -107,7 +107,7 @@
             // credits
             // 
             this.credits.AutoSize = true;
-            this.credits.Location = new System.Drawing.Point(179, 118);
+            this.credits.Location = new System.Drawing.Point(262, 142);
             this.credits.Name = "credits";
             this.credits.Size = new System.Drawing.Size(35, 13);
             this.credits.TabIndex = 6;
@@ -120,7 +120,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(226, 139);
+            this.ClientSize = new System.Drawing.Size(312, 164);
             this.Controls.Add(this.credits);
             this.Controls.Add(this.lbl_settings);
             this.Controls.Add(this.textBox1);
